@@ -5,5 +5,6 @@
 
 ## Geração Tech Unimed-BH - Ciência de Dados
 
-- **Projeto Análise de Dados com Python e Pandas - [Código do Projeto](https://github.com/j2evaldo/dio/blob/main/EDA_DIO.ipynb
+- **Projeto Análise de Dados com Python e Pandas** - [Código do Projeto](https://github.com/j2evaldo/dio/blob/main/EDA_DIO.ipynb)
+
 
