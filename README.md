@@ -7,7 +7,7 @@
   <img src="DIO.png" >
 </p>
 
-## Este ropostório é exclusivo sobre os cursos que estou fazendo na [DIO](https://www.dio.me/)
+## Este ropostório é exclusivo sobre os cursos que estou desenvolvendo na [DIO](https://www.dio.me/)
 
 ## **SOBRE A DIO - MINHA ÓTICA**
 
