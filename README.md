@@ -23,6 +23,8 @@ Acabei me matriculando em um curso de pós graduação em inteligência artifici
 
 Não sei de que forma, mas a DIO acabou passando na minha time line do facebook. Me matriculei no BootCamp da Unimed e até o presente momento estou impressionado com a qualidade do conteúdo e das aulas. Vem me ajudando muito e espero continuar aprendendo ainda mais. 
 
+Caso queira acompanhar minha evolução e contribuir com meus códigos, este é meu [repositório](https://github.com/j2evaldo)
+
 ---
 
 # **PROJETOS**
