@@ -34,4 +34,5 @@ Caso queira acompanhar minha evolução e contribuir com meus códigos, este é 
 - **Projeto Análise de Dados com Python e Pandas** - [Código do Projeto](https://github.com/j2evaldo/dio/blob/main/EDA_DIO.ipynb)
 - **Projeto de Publicação de Pacote no Pypi** - [Código do Projeto](https://github.com/j2evaldo/pacote)
 - **Projeto de Previsão de Casos de Covid com Machine Learning** - [Código do Projeto](https://github.com/j2evaldo/covid_dio/blob/main/covid.ipynb)
+- **Projeto de Transfer Learning** - [Código do Projeto](https://github.com/j2evaldo/transfer_learning/blob/main/transfer_learning.ipynb)
 
