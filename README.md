@@ -36,4 +36,5 @@ Caso queira acompanhar minha evolução e contribuir com meus códigos, este é 
 - **Projeto de Previsão de Casos de Covid com Machine Learning** - [Código do Projeto](https://github.com/j2evaldo/covid_dio/blob/main/covid.ipynb)
 - **Projeto de Transfer Learning** - [Código do Projeto](https://github.com/j2evaldo/transfer_learning/blob/main/transfer_learning.ipynb)
 - **Projeto de boas Pŕaticas com DynamoDB** - [Código do Projeto](https://github.com/j2evaldo/dio-live-dynamodb)
+- **Explorando Dados Demográficos com Serviços de Big Data na AWS** - [Descrição do Projeto](https://github.com/j2evaldo/dio-live-athena?organization=j2evaldo&organization=j2evaldo)
 
