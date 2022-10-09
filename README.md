@@ -37,5 +37,6 @@ Caso queira acompanhar minha evolução e contribuir com meus códigos, este é 
 - **Projeto de Transfer Learning** - [Código do Projeto](https://github.com/j2evaldo/transfer_learning/blob/main/transfer_learning.ipynb)
 - **Projeto de boas Pŕaticas com DynamoDB** - [Código do Projeto](https://github.com/j2evaldo/dio-live-dynamodb)
 - **Explorando Dados Demográficos com Serviços de Big Data na AWS** - [Descrição do Projeto](https://github.com/j2evaldo/dio-live-athena?organization=j2evaldo&organization=j2evaldo)
-- **Porjeto Modelo Coneitual de Banco de Dados** - [Código do Projeto](https://github.com/j2evaldo/dio-conceitual_db/blob/main/Modelo%20Conceitual.png)
-- **Porjeto Modelo Coneitual de Banco de Dados para uma Oficina** - [Código do Projeto](https://github.com/j2evaldo/dio_Construindo-um-Esquema-Conceitual-para-Banco-De-dados/blob/main/Oficina.png)
+- **Projeto Modelo Coneitual de Banco de Dados** - [Código do Projeto](https://github.com/j2evaldo/dio-conceitual_db/blob/main/Modelo%20Conceitual.png)
+- **Projeto Modelo Coneitual de Banco de Dados para uma Oficina** - [Código do Projeto](https://github.com/j2evaldo/dio_Construindo-um-Esquema-Conceitual-para-Banco-De-dados/blob/main/Oficina.png)
+- **Projeto Lógico Banco de Dados** [Código do Proejto](https://github.com/j2evaldo/dio-projeto-logico/blob/main/bd.sql)
